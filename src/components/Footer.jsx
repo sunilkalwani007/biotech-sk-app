@@ -18,7 +18,7 @@ export default function Footer() {
           <div className="flex items-center gap-4 pt-2">
             <ul className="space-y-3 text-sm">
             <li><a href="mailto:info@biotech.com" className="hover:text-cyan-400 transition-colors"><Mail size={20} className="mr-2 inline" />info@biotech.com</a></li>
-            <li><a href="callto:+919784350553" className="hover:text-cyan-400 transition-colors"><Phone size={20} className="mr-2 inline" />+91.97483.50553</a></li>
+            <li><a href="callto:+919784350000" className="hover:text-cyan-400 transition-colors"><Phone size={20} className="mr-2 inline" />+91.97483.00000</a></li>
             </ul>
           </div>
         </div>
