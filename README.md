@@ -25,3 +25,9 @@ Follow these steps to run the project locally on your machine:
 ```bash
 git clone [https://github.com/sunilkalwani007/biotech-sk-app.git](https://github.com/sunilkalwani007/biotech-sk-app.git)
 cd biotech-sk-app
+
+**2. Install dependencies**
+Make sure you have Node.js installed. Run the following command to install all required packages:
+```Bash
+
+npm install
