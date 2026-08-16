@@ -1,5 +1,3 @@
-Bilkul. Neeche aapke **BioSynth React/Vite project** ke liye polished, GitHub-ready `README.md` hai. Isme project overview, features, tech stack, installation, scripts, architecture, animation approach aur deployment sections included hain.
-
 # 🧬 BioSynth — Next-Gen Genomics & Biotech Landing Page
 
 > An animation-driven, premium biotechnology landing page built with React, Vite, Tailwind CSS, and Framer Motion.
