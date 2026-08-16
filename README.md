@@ -1,8 +1,8 @@
-# 🧬 BioSynth — Next-Gen Genomics & Biotech Landing Page
+# 🧬 BioTech— Next-Gen Genomics & Biotech Landing Page
 
 > An animation-driven, premium biotechnology landing page built with React, Vite, Tailwind CSS, and Framer Motion.
 
-BioSynth is a modern, futuristic single-page application (SPA) concept designed for a next-generation genomics and biotechnology startup.
+BioTechis a modern, futuristic single-page application (SPA) concept designed for a next-generation genomics and biotechnology startup.
 
 The project focuses on **premium visual design, smooth animations, responsive layouts, reusable React components, and performant frontend interactions**.
 
@@ -49,7 +49,7 @@ The project focuses on **premium visual design, smooth animations, responsive la
 
 ## 🎨 Design Philosophy
 
-BioSynth follows a **clinical yet futuristic** visual language.
+BioTechfollows a **clinical yet futuristic** visual language.
 
 The interface combines dark surfaces, cyan/blue gradients, glassmorphism, subtle glow effects, and scientific data-inspired elements to communicate innovation and technological sophistication.
 
@@ -99,7 +99,7 @@ Each major section is isolated into its own component, allowing individual secti
 
 ## 🎞️ Animation Strategy
 
-Animation is a core part of the BioSynth experience rather than an afterthought.
+Animation is a core part of the BioTechexperience rather than an afterthought.
 
 ### 1. Scroll-Triggered Animations
 
@@ -311,7 +311,7 @@ Publish Directory: dist
 
 ### Hero Section
 
-Introduces the BioSynth brand with a high-impact headline, supporting content, CTA elements, and futuristic visual treatment.
+Introduces the BioTechbrand with a high-impact headline, supporting content, CTA elements, and futuristic visual treatment.
 
 ### Innovation Section
 
