@@ -1,17 +1,27 @@
-# React + Vite
+# BioSynth | Next-Gen Genomics & Biotech Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+An animation-driven, premium single-page application (SPA) designed for a forward-thinking biotechnology startup. The project demonstrates strong frontend development practices, modern interaction design, and a highly responsive, performant architecture.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+*(You can add your Vercel or Netlify live link here)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🛠️ Tech Stack & Libraries
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Framework:** React.js (Bootstrapped with Vite for instant server start and fast HMR)
+* **Styling:** Tailwind CSS (Utility-first styling for complex, responsive glassmorphism designs)
+* **Animations:** Framer Motion (Declarative animations, scroll-reveals, and physics-based interactions)
+* **Icons:** Lucide React (Clean, consistent SVG icons)
+* **Typography:** Plus Jakarta Sans (Display), Inter (Body), JetBrains Mono (Data/Tech accents)
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-# biotech-sk-app
+## ⚙️ Setup Instructions
+
+Follow these steps to run the project locally on your machine:
+
+**1. Clone the repository**
+```bash
+git clone [https://github.com/sunilkalwani007/biotech-sk-app.git](https://github.com/sunilkalwani007/biotech-sk-app.git)
+cd biotech-sk-app
