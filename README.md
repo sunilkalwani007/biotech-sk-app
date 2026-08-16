@@ -10,7 +10,7 @@ The project focuses on **premium visual design, smooth animations, responsive la
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** [Add your Vercel or Netlify URL here]
+🔗 **Live Demo:** [https://biotech-sk-app.netlify.app/]
 
 ---
 
