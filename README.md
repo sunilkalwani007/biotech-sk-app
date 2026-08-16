@@ -3,7 +3,7 @@
 An animation-driven, premium single-page application (SPA) designed for a forward-thinking biotechnology startup. The project demonstrates strong frontend development practices, modern interaction design, and a highly responsive, performant architecture.
 
 ## 🚀 Live Demo
-*(You can add your Vercel or Netlify live link here)*
+*https://biotech-sk-app.netlify.app/*
 
 ---
 
